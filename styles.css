@@ -1,0 +1,87 @@
+.body-light{
+    text-align: center;
+    font-family: 'DynaPuff', cursive;
+    background-image: url(aaa.png);
+    margin: 2%;
+    transition: 0.3s ease-in-out;
+    
+}
+.body-dark{
+    text-align: center;
+    font-family: 'DynaPuff', cursive;
+    background-image: url(darkfile.png);
+    margin: 2%;
+    transition: 0.3s ease-in-out;
+
+}
+h1{
+    color:#F65A83;
+    font-size: 6rem;
+    
+}
+.h1-dark{
+        color:#FF7C7C;
+        font-size: 6rem;
+        
+}
+h4{
+    padding-bottom:2%;
+    color:#2B7A0B;
+    font-size: 2rem;
+}
+.h4-dark{
+    padding-bottom:2%;
+    color:#FFD460;
+    font-size: 2rem;
+}
+.p-dark{
+    color:white;
+}
+#input-name{
+    padding-left:33% ;
+}
+.btn-s{
+    text-align: center;
+    padding: 1%;
+    border-radius: 10%;
+}
+.btn-s:hover{
+    color:black;
+}
+.btn-s-dark{
+    text-align: center;
+    padding: 1%;
+    color:black;
+    border-radius: 10%;
+}
+.res{
+    
+    padding-right: 22%;
+}
+.answer{
+    font-size: 3rem;;
+    margin: 75px 230px 25px 0;
+    color:#8E3200;
+    padding-bottom: 2%;;
+}
+.answer-dark{
+    font-size: 3rem;;
+    margin: 75px 230px 25px 0;
+    color:red;
+    padding-bottom: 2%;
+}
+#para{
+    font-size: 1.5rem;
+}
+.btn-change{
+    display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.btn-change:active{
+    background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px)
+}
